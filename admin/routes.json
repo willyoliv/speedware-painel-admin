@@ -1,0 +1,6 @@
+{
+    "admin.app.combo": {
+        "component": "AdminCombos",
+        "path": "/admin/app/combo"
+    }
+}

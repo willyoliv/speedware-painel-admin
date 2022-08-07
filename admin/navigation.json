@@ -1,0 +1,6 @@
+{
+    "section": "orders",
+    "titleId": "admin-combo.navigation.label",
+    "path": "/admin/combo",
+    "searchKeyWordsHelpers": "admin-combo.navigation.search.kws"
+}

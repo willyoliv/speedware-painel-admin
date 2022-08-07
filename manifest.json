@@ -1,0 +1,28 @@
+{
+  "name": "admin-combo",
+  "vendor": "speedware",
+  "version": "0.1.0",
+  "title": "API",
+  "description": "Combo List",
+  "categories": [],
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x"
+  },
+  "builders": {
+    "docs": "0.x",
+    "admin": "0.x",
+    "react": "3.x",
+    "messages": "1.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "scripts": {
+    "postreleasy": "vtex publish --verbose",
+    "prereleasy": "bash lint.sh"
+  },
+  "credentialType": "absolute",
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

@@ -1,0 +1,24 @@
+{
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.27.2",
+    "classnames": "^2.2.6",
+    "dotenv": "^16.0.1",
+    "ramda": "^0.26.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-intl": "^3.12.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/classnames": "^2.2.7",
+    "@types/node": "^18.6.3",
+    "@types/prop-types": "^15.7.0",
+    "@types/react": "^16.9.31",
+    "@vtex/tsconfig": "^0.6.0",
+    "speedware.admin-combo": "https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659733124/public/@types/speedware.admin-combo",
+    "typescript": "3.9.7",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime",
+    "vtex.styleguide": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.1/public/@types/vtex.styleguide"
+  }
+}
