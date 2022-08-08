@@ -279,14 +279,18 @@ shallow-equal@^1.2.1:
   resolved "https://registry.yarnpkg.com/shallow-equal/-/shallow-equal-1.2.1.tgz#4c16abfa56043aa20d050324efa68940b0da79da"
   integrity sha512-S4vJDjHHMBaiZuT9NPb616CSmLf618jawtv3sufLl6ivK8WocjAo58cXwbRV1cgqxH0Qbv+iUt6m05eqEa2IRA==
 
-"speedware.admin-combo@https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659733124/public/@types/speedware.admin-combo":
+"speedware.admin-combo@https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659923179/public/@types/speedware.admin-combo":
   version "0.1.0"
-  resolved "https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659733124/public/@types/speedware.admin-combo#6c653271bbf1c0d7904c5fec63712c220de09f3c"
+  resolved "https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659923179/public/@types/speedware.admin-combo#65de338d2dd46ec2b6d248371f5ad38e9fda4bcd"
 
 typescript@3.9.7:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
+
+"vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles":
+  version "0.4.4"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles#8c45c6decf9acd2b944e07261686decff93d6422"
 
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime":
   version "8.132.4"

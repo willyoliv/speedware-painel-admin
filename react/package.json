@@ -16,8 +16,9 @@
     "@types/prop-types": "^15.7.0",
     "@types/react": "^16.9.31",
     "@vtex/tsconfig": "^0.6.0",
-    "speedware.admin-combo": "https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659733124/public/@types/speedware.admin-combo",
+    "speedware.admin-combo": "https://testelojadesafio--speedware.myvtex.com/_v/private/typings/linked/v1/speedware.admin-combo@0.1.0+build1659923179/public/@types/speedware.admin-combo",
     "typescript": "3.9.7",
+    "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles",
     "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime",
     "vtex.styleguide": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.1/public/@types/vtex.styleguide"
   }

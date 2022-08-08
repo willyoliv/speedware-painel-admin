@@ -1,17 +1,8 @@
-// import "dotenv/config";
 import axios from "axios";
-
-const api = axios.create({
-  baseURL: "https://combos-api.herokuapp.com",
-  headers: {
-    Accept: "application/json",
-    "Content-Type": "application/json",
-  },
-});
 
 export const getData = async () => {
   try {
-    const { data } = await api.get("/combos");
+    const { data } = await axios.get("https://d6v3yemkcmgnnjhluk5ouoqloa0wwucm.lambda-url.us-east-1.on.aws/");
     return data;
   } catch (error) {
     return error;
@@ -20,7 +11,7 @@ export const getData = async () => {
 
 export const updateComboAvailability = async (comboIdList: string[]) => {
   try {
-    return await api.put("/combos", comboIdList);
+    return await axios.put("https://combos-api.herokuapp.com/combos", comboIdList);
   } catch (error) {
     return error;
   }
